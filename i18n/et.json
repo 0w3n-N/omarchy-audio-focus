@@ -1,0 +1,19 @@
+{
+  "audio.input": "SISEND",
+  "audio.level.concertHall": "Kontserdisaal",
+  "audio.level.crankedUp": "Põhja keeratud",
+  "audio.level.easyListening": "Kerge kuulamine",
+  "audio.level.murmur": "Pomin",
+  "audio.level.muted": "Vaigistatud",
+  "audio.level.partyMode": "Peorežiim",
+  "audio.level.silenced": "Hääletu",
+  "audio.level.steadyGroove": "Ühtlane rütm",
+  "audio.level.whisper": "Sosin",
+  "audio.mute": "Vaigista",
+  "audio.output": "VÄLJUND",
+  "audio.sources": "ALLIKAD",
+  "audio.stream": "Voog",
+  "audio.title": "Heli",
+  "audio.unknownDevice": "Tundmatu",
+  "audio.unmute": "Taasta heli"
+}

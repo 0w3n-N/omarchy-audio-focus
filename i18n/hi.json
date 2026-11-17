@@ -1,0 +1,19 @@
+{
+  "audio.input": "इनपुट",
+  "audio.level.concertHall": "कंसर्ट हॉल",
+  "audio.level.crankedUp": "तेज़ कर दिया",
+  "audio.level.easyListening": "हल्का सुनना",
+  "audio.level.murmur": "बुदबुदाहट",
+  "audio.level.muted": "म्यूट किया गया",
+  "audio.level.partyMode": "पार्टी मोड",
+  "audio.level.silenced": "ख़ामोश किया गया",
+  "audio.level.steadyGroove": "स्थिर ताल",
+  "audio.level.whisper": "फुसफुसाहट",
+  "audio.mute": "म्यूट",
+  "audio.output": "आउटपुट",
+  "audio.sources": "स्रोत",
+  "audio.stream": "स्ट्रीम",
+  "audio.title": "ऑडियो",
+  "audio.unknownDevice": "अज्ञात",
+  "audio.unmute": "अनम्यूट"
+}

@@ -1,0 +1,19 @@
+{
+  "audio.input": "உள்ளீடு",
+  "audio.level.concertHall": "இசை அரங்கம்",
+  "audio.level.crankedUp": "மிக அதிகம்",
+  "audio.level.easyListening": "மென்மையான ஒலி",
+  "audio.level.murmur": "முணுமுணுப்பு",
+  "audio.level.muted": "ஒலியடக்கம்",
+  "audio.level.partyMode": "விருந்து பயன்முறை",
+  "audio.level.silenced": "அமைதி",
+  "audio.level.steadyGroove": "நிலையான தாளம்",
+  "audio.level.whisper": "கிசுகிசுப்பு",
+  "audio.mute": "முடக்கவும்",
+  "audio.output": "வெளியீடு",
+  "audio.sources": "மூலங்கள்",
+  "audio.stream": "ஸ்ட்ரீம்",
+  "audio.title": "ஒலி",
+  "audio.unknownDevice": "தெரியாதது",
+  "audio.unmute": "முடக்கத்தை நீக்கவும்"
+}

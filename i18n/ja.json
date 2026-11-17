@@ -1,0 +1,19 @@
+{
+  "audio.input": "入力",
+  "audio.level.concertHall": "コンサートホール",
+  "audio.level.crankedUp": "大音量",
+  "audio.level.easyListening": "心地よい音量",
+  "audio.level.murmur": "つぶやき",
+  "audio.level.muted": "ミュート",
+  "audio.level.partyMode": "パーティーモード",
+  "audio.level.silenced": "無音",
+  "audio.level.steadyGroove": "安定したグルーヴ",
+  "audio.level.whisper": "ささやき",
+  "audio.mute": "ミュート",
+  "audio.output": "出力",
+  "audio.sources": "ソース",
+  "audio.stream": "ストリーム",
+  "audio.title": "オーディオ",
+  "audio.unknownDevice": "不明",
+  "audio.unmute": "ミュート解除"
+}

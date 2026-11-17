@@ -1,0 +1,19 @@
+{
+  "audio.input": "الإدخال",
+  "audio.level.concertHall": "قاعة حفلات",
+  "audio.level.crankedUp": "عالٍ جدًا",
+  "audio.level.easyListening": "استماع هادئ",
+  "audio.level.murmur": "تمتمة",
+  "audio.level.muted": "مكتوم",
+  "audio.level.partyMode": "وضع الحفلة",
+  "audio.level.silenced": "صامت",
+  "audio.level.steadyGroove": "إيقاع ثابت",
+  "audio.level.whisper": "همس",
+  "audio.mute": "كتم",
+  "audio.output": "الإخراج",
+  "audio.sources": "المصادر",
+  "audio.stream": "التدفق",
+  "audio.title": "الصوت",
+  "audio.unknownDevice": "غير معروف",
+  "audio.unmute": "إلغاء الكتم"
+}

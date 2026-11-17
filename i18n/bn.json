@@ -1,0 +1,19 @@
+{
+  "audio.input": "ইনপুট",
+  "audio.level.concertHall": "কনসার্ট হল",
+  "audio.level.crankedUp": "জোরে ওঠানো",
+  "audio.level.easyListening": "সহজ শ্রবণ",
+  "audio.level.murmur": "গুনগুন",
+  "audio.level.muted": "মিউট",
+  "audio.level.partyMode": "পার্টি মোড",
+  "audio.level.silenced": "নীরব",
+  "audio.level.steadyGroove": "স্থির তাল",
+  "audio.level.whisper": "ফিসফিস",
+  "audio.mute": "মিউট",
+  "audio.output": "আউটপুট",
+  "audio.sources": "উৎসসমূহ",
+  "audio.stream": "স্ট্রিম",
+  "audio.title": "অডিও",
+  "audio.unknownDevice": "অজানা",
+  "audio.unmute": "আনমিউট"
+}

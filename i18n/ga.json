@@ -1,0 +1,19 @@
+{
+  "audio.input": "IONCHUR",
+  "audio.level.concertHall": "Halla ceolchoirme",
+  "audio.level.crankedUp": "Casadh suas",
+  "audio.level.easyListening": "Éisteacht éasca",
+  "audio.level.murmur": "Cronán",
+  "audio.level.muted": "Balbhaithe",
+  "audio.level.partyMode": "Mód cóisire",
+  "audio.level.silenced": "Tostaithe",
+  "audio.level.steadyGroove": "Rithim sheasta",
+  "audio.level.whisper": "Cogar",
+  "audio.mute": "Balbhaigh",
+  "audio.output": "ASCHUR",
+  "audio.sources": "FOINSÍ",
+  "audio.stream": "Sruth",
+  "audio.title": "Fuaim",
+  "audio.unknownDevice": "Anaithnid",
+  "audio.unmute": "Díbhalbhaigh"
+}

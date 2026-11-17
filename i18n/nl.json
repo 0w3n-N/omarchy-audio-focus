@@ -1,0 +1,19 @@
+{
+  "audio.input": "INVOER",
+  "audio.level.concertHall": "Concertzaal",
+  "audio.level.crankedUp": "Hard aan",
+  "audio.level.easyListening": "Rustig luisteren",
+  "audio.level.murmur": "Gemompel",
+  "audio.level.muted": "Gedempt",
+  "audio.level.partyMode": "Feestmodus",
+  "audio.level.silenced": "Stil",
+  "audio.level.steadyGroove": "Rustige groove",
+  "audio.level.whisper": "Gefluister",
+  "audio.mute": "Dempen",
+  "audio.output": "UITVOER",
+  "audio.sources": "BRONNEN",
+  "audio.stream": "Stream",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Onbekend",
+  "audio.unmute": "Dempen opheffen"
+}

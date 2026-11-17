@@ -1,0 +1,19 @@
+{
+  "audio.input": "WEJŚCIE",
+  "audio.level.concertHall": "Sala koncertowa",
+  "audio.level.crankedUp": "Na maksa",
+  "audio.level.easyListening": "Lekkie słuchanie",
+  "audio.level.murmur": "Szmerek",
+  "audio.level.muted": "Wyciszony",
+  "audio.level.partyMode": "Tryb imprezowy",
+  "audio.level.silenced": "Cisza",
+  "audio.level.steadyGroove": "Spokojny groove",
+  "audio.level.whisper": "Szept",
+  "audio.mute": "Wycisz",
+  "audio.output": "WYJŚCIE",
+  "audio.sources": "ŹRÓDŁA",
+  "audio.stream": "Strumień",
+  "audio.title": "Dźwięk",
+  "audio.unknownDevice": "Nieznane",
+  "audio.unmute": "Wyłącz wyciszenie"
+}

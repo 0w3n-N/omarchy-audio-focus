@@ -1,0 +1,19 @@
+{
+  "audio.input": "ĐẦU VÀO",
+  "audio.level.concertHall": "Phòng hòa nhạc",
+  "audio.level.crankedUp": "Vặn to",
+  "audio.level.easyListening": "Nghe nhẹ nhàng",
+  "audio.level.murmur": "Rì rầm",
+  "audio.level.muted": "Đã tắt tiếng",
+  "audio.level.partyMode": "Chế độ tiệc",
+  "audio.level.silenced": "Im lặng",
+  "audio.level.steadyGroove": "Nhịp ổn định",
+  "audio.level.whisper": "Thì thầm",
+  "audio.mute": "Tắt tiếng",
+  "audio.output": "ĐẦU RA",
+  "audio.sources": "NGUỒN",
+  "audio.stream": "Luồng",
+  "audio.title": "Âm thanh",
+  "audio.unknownDevice": "Không rõ",
+  "audio.unmute": "Bật tiếng"
+}

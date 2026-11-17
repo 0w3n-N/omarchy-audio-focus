@@ -1,0 +1,19 @@
+{
+  "audio.input": "УЛАЗ",
+  "audio.level.concertHall": "Концертна сала",
+  "audio.level.crankedUp": "Одврнуто",
+  "audio.level.easyListening": "Лако слушање",
+  "audio.level.murmur": "Жамор",
+  "audio.level.muted": "Искључено",
+  "audio.level.partyMode": "Режим забаве",
+  "audio.level.silenced": "Утишано",
+  "audio.level.steadyGroove": "Сталан ритам",
+  "audio.level.whisper": "Шапат",
+  "audio.mute": "Искључи звук",
+  "audio.output": "ИЗЛАЗ",
+  "audio.sources": "ИЗВОРИ",
+  "audio.stream": "Ток",
+  "audio.title": "Звук",
+  "audio.unknownDevice": "Непознато",
+  "audio.unmute": "Укључи звук"
+}

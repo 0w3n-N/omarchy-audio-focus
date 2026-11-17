@@ -1,0 +1,19 @@
+{
+  "audio.input": "ورودی",
+  "audio.level.concertHall": "سالن کنسرت",
+  "audio.level.crankedUp": "تا ته",
+  "audio.level.easyListening": "گوش‌دادن ملایم",
+  "audio.level.murmur": "زمزمه",
+  "audio.level.muted": "بی‌صدا",
+  "audio.level.partyMode": "حالت مهمانی",
+  "audio.level.silenced": "ساکت",
+  "audio.level.steadyGroove": "ریتم ثابت",
+  "audio.level.whisper": "نجوا",
+  "audio.mute": "بی‌صدا",
+  "audio.output": "خروجی",
+  "audio.sources": "منابع",
+  "audio.stream": "جریان",
+  "audio.title": "صدا",
+  "audio.unknownDevice": "نامشخص",
+  "audio.unmute": "لغو بی‌صدا"
+}

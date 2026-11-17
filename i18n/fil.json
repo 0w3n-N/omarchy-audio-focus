@@ -1,0 +1,19 @@
+{
+  "audio.input": "INPUT",
+  "audio.level.concertHall": "Bulwagan ng konsiyerto",
+  "audio.level.crankedUp": "Nakatodo",
+  "audio.level.easyListening": "Madaling pakinggan",
+  "audio.level.murmur": "Bulong-bulong",
+  "audio.level.muted": "Naka-mute",
+  "audio.level.partyMode": "Pang-party na mode",
+  "audio.level.silenced": "Tahimik na",
+  "audio.level.steadyGroove": "Matatag na tugtog",
+  "audio.level.whisper": "Bulong",
+  "audio.mute": "I-mute",
+  "audio.output": "OUTPUT",
+  "audio.sources": "MGA PINAGMUMULAN",
+  "audio.stream": "Stream",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Hindi kilala",
+  "audio.unmute": "I-unmute"
+}

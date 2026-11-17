@@ -1,0 +1,19 @@
+{
+  "audio.input": "INGIZO",
+  "audio.level.concertHall": "Ukumbi wa tamasha",
+  "audio.level.crankedUp": "Imepandishwa sana",
+  "audio.level.easyListening": "Kusikiliza kwa utulivu",
+  "audio.level.murmur": "Mnung'uniko",
+  "audio.level.muted": "Imenyamazishwa",
+  "audio.level.partyMode": "Hali ya sherehe",
+  "audio.level.silenced": "Imetulia kabisa",
+  "audio.level.steadyGroove": "Mwendo thabiti",
+  "audio.level.whisper": "Nong'ono",
+  "audio.mute": "Nyamazisha",
+  "audio.output": "TOLEO",
+  "audio.sources": "VYANZO",
+  "audio.stream": "Mtiririko",
+  "audio.title": "Sauti",
+  "audio.unknownDevice": "Haijulikani",
+  "audio.unmute": "Rejesha sauti"
+}

@@ -1,0 +1,19 @@
+{
+  "audio.input": "INGRESSO",
+  "audio.level.concertHall": "Sala da concerto",
+  "audio.level.crankedUp": "Al massimo",
+  "audio.level.easyListening": "Ascolto leggero",
+  "audio.level.murmur": "Mormorio",
+  "audio.level.muted": "Muto",
+  "audio.level.partyMode": "Modalità festa",
+  "audio.level.silenced": "Silenziato",
+  "audio.level.steadyGroove": "Ritmo costante",
+  "audio.level.whisper": "Sussurro",
+  "audio.mute": "Disattiva audio",
+  "audio.output": "USCITA",
+  "audio.sources": "SORGENTI",
+  "audio.stream": "Flusso",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Sconosciuto",
+  "audio.unmute": "Riattiva audio"
+}

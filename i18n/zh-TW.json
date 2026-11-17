@@ -1,0 +1,19 @@
+{
+  "audio.input": "輸入",
+  "audio.level.concertHall": "音樂廳",
+  "audio.level.crankedUp": "開到最大",
+  "audio.level.easyListening": "輕鬆聆聽",
+  "audio.level.murmur": "低語",
+  "audio.level.muted": "靜音",
+  "audio.level.partyMode": "派對模式",
+  "audio.level.silenced": "完全靜音",
+  "audio.level.steadyGroove": "穩定律動",
+  "audio.level.whisper": "耳語",
+  "audio.mute": "靜音",
+  "audio.output": "輸出",
+  "audio.sources": "來源",
+  "audio.stream": "串流",
+  "audio.title": "音訊",
+  "audio.unknownDevice": "未知",
+  "audio.unmute": "取消靜音"
+}

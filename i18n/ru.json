@@ -1,0 +1,19 @@
+{
+  "audio.input": "ВХОД",
+  "audio.level.concertHall": "Концертный зал",
+  "audio.level.crankedUp": "На всю громкость",
+  "audio.level.easyListening": "Лёгкое прослушивание",
+  "audio.level.murmur": "Шёпот",
+  "audio.level.muted": "Без звука",
+  "audio.level.partyMode": "Режим вечеринки",
+  "audio.level.silenced": "Полная тишина",
+  "audio.level.steadyGroove": "Ровный ритм",
+  "audio.level.whisper": "Тихий звук",
+  "audio.mute": "Выключить звук",
+  "audio.output": "ВЫХОД",
+  "audio.sources": "ИСТОЧНИКИ",
+  "audio.stream": "Поток",
+  "audio.title": "Аудио",
+  "audio.unknownDevice": "Неизвестно",
+  "audio.unmute": "Включить звук"
+}

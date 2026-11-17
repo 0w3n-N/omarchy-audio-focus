@@ -1,0 +1,19 @@
+{
+  "audio.input": "קלט",
+  "audio.level.concertHall": "אולם קונצרטים",
+  "audio.level.crankedUp": "מוגבר",
+  "audio.level.easyListening": "האזנה נינוחה",
+  "audio.level.murmur": "מלמול",
+  "audio.level.muted": "מושתק",
+  "audio.level.partyMode": "מצב מסיבה",
+  "audio.level.silenced": "שקט מוחלט",
+  "audio.level.steadyGroove": "קצב יציב",
+  "audio.level.whisper": "לחישה",
+  "audio.mute": "השתקה",
+  "audio.output": "פלט",
+  "audio.sources": "מקורות",
+  "audio.stream": "זרם",
+  "audio.title": "שמע",
+  "audio.unknownDevice": "לא ידוע",
+  "audio.unmute": "ביטול השתקה"
+}

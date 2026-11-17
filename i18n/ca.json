@@ -1,0 +1,19 @@
+{
+  "audio.input": "ENTRADA",
+  "audio.level.concertHall": "Sala de concerts",
+  "audio.level.crankedUp": "Al màxim",
+  "audio.level.easyListening": "Escolta suau",
+  "audio.level.murmur": "Murmuri",
+  "audio.level.muted": "Silenciat",
+  "audio.level.partyMode": "Mode festa",
+  "audio.level.silenced": "En silenci",
+  "audio.level.steadyGroove": "Ritme constant",
+  "audio.level.whisper": "Xiuxiueig",
+  "audio.mute": "Silencia",
+  "audio.output": "SORTIDA",
+  "audio.sources": "FONTS",
+  "audio.stream": "Flux",
+  "audio.title": "Àudio",
+  "audio.unknownDevice": "Desconegut",
+  "audio.unmute": "Activa el so"
+}

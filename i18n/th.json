@@ -1,0 +1,19 @@
+{
+  "audio.input": "อินพุต",
+  "audio.level.concertHall": "ห้องคอนเสิร์ต",
+  "audio.level.crankedUp": "ดังสุด",
+  "audio.level.easyListening": "ฟังสบาย",
+  "audio.level.murmur": "พึมพำ",
+  "audio.level.muted": "ปิดเสียง",
+  "audio.level.partyMode": "โหมดปาร์ตี้",
+  "audio.level.silenced": "เงียบสนิท",
+  "audio.level.steadyGroove": "จังหวะมั่นคง",
+  "audio.level.whisper": "กระซิบ",
+  "audio.mute": "ปิดเสียง",
+  "audio.output": "เอาต์พุต",
+  "audio.sources": "แหล่งเสียง",
+  "audio.stream": "สตรีม",
+  "audio.title": "เสียง",
+  "audio.unknownDevice": "ไม่ทราบ",
+  "audio.unmute": "เปิดเสียง"
+}

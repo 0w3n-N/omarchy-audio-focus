@@ -1,0 +1,19 @@
+{
+  "audio.input": "IEVADE",
+  "audio.level.concertHall": "Koncertzāle",
+  "audio.level.crankedUp": "Uzgriezts skaļi",
+  "audio.level.easyListening": "Viegla klausīšanās",
+  "audio.level.murmur": "Murmināšana",
+  "audio.level.muted": "Apklusināts",
+  "audio.level.partyMode": "Ballītes režīms",
+  "audio.level.silenced": "Pilnīgi kluss",
+  "audio.level.steadyGroove": "Stabils ritms",
+  "audio.level.whisper": "Čuksts",
+  "audio.mute": "Apklusināt",
+  "audio.output": "IZVADE",
+  "audio.sources": "AVOTI",
+  "audio.stream": "Plūsma",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Nezināma",
+  "audio.unmute": "Ieslēgt skaņu"
+}

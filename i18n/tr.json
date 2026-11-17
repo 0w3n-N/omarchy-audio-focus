@@ -1,0 +1,19 @@
+{
+  "audio.input": "GİRİŞ",
+  "audio.level.concertHall": "Konser salonu",
+  "audio.level.crankedUp": "Son ses",
+  "audio.level.easyListening": "Hafif müzik",
+  "audio.level.murmur": "Mırıltı",
+  "audio.level.muted": "Sessiz",
+  "audio.level.partyMode": "Parti modu",
+  "audio.level.silenced": "Susturuldu",
+  "audio.level.steadyGroove": "Sabit ritim",
+  "audio.level.whisper": "Fısıltı",
+  "audio.mute": "Sessize al",
+  "audio.output": "ÇIKIŞ",
+  "audio.sources": "KAYNAKLAR",
+  "audio.stream": "Akış",
+  "audio.title": "Ses",
+  "audio.unknownDevice": "Bilinmeyen",
+  "audio.unmute": "Sesi aç"
+}

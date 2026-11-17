@@ -1,0 +1,19 @@
+{
+  "audio.input": "INTRARE",
+  "audio.level.concertHall": "Sală de concert",
+  "audio.level.crankedUp": "La maxim",
+  "audio.level.easyListening": "Ascultare ușoară",
+  "audio.level.murmur": "Murmur",
+  "audio.level.muted": "Pe silențios",
+  "audio.level.partyMode": "Mod petrecere",
+  "audio.level.silenced": "Liniște completă",
+  "audio.level.steadyGroove": "Ritm constant",
+  "audio.level.whisper": "Șoaptă",
+  "audio.mute": "Dezactivează sunetul",
+  "audio.output": "IEȘIRE",
+  "audio.sources": "SURSE",
+  "audio.stream": "Flux",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Necunoscut",
+  "audio.unmute": "Activează sunetul"
+}

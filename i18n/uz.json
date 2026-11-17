@@ -1,0 +1,19 @@
+{
+  "audio.input": "KIRITISH",
+  "audio.level.concertHall": "Konsert zali",
+  "audio.level.crankedUp": "Maksimal baland",
+  "audio.level.easyListening": "Yengil tinglash",
+  "audio.level.murmur": "Shivirlash",
+  "audio.level.muted": "Ovozsiz",
+  "audio.level.partyMode": "Bazm rejimi",
+  "audio.level.silenced": "Jimjit",
+  "audio.level.steadyGroove": "Barqaror ritm",
+  "audio.level.whisper": "Pichirlash",
+  "audio.mute": "Ovozni oʻchirish",
+  "audio.output": "CHIQARISH",
+  "audio.sources": "MANBALAR",
+  "audio.stream": "Oqim",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Nomaʼlum",
+  "audio.unmute": "Ovozni yoqish"
+}

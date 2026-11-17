@@ -1,0 +1,19 @@
+{
+  "audio.input": "MASUKAN",
+  "audio.level.concertHall": "Aula konser",
+  "audio.level.crankedUp": "Dikeraskan",
+  "audio.level.easyListening": "Santai",
+  "audio.level.murmur": "Gumaman",
+  "audio.level.muted": "Dibisukan",
+  "audio.level.partyMode": "Mode pesta",
+  "audio.level.silenced": "Senyap",
+  "audio.level.steadyGroove": "Alunan stabil",
+  "audio.level.whisper": "Bisikan",
+  "audio.mute": "Bisukan",
+  "audio.output": "KELUARAN",
+  "audio.sources": "SUMBER",
+  "audio.stream": "Aliran",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Tidak dikenal",
+  "audio.unmute": "Suarakan"
+}

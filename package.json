@@ -1,0 +1,8 @@
+{
+  "name": "omarchy-audio-focus",
+  "private": true,
+  "description": "Unit tests for the panel's pure helpers and static checks on its QML and translations. Not needed at runtime; the plugin itself has no Node dependency.",
+  "scripts": {
+    "test": "node --test test/"
+  }
+}

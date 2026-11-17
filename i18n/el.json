@@ -1,0 +1,19 @@
+{
+  "audio.input": "ΕΙΣΟΔΟΣ",
+  "audio.level.concertHall": "Μέγαρο μουσικής",
+  "audio.level.crankedUp": "Στο φουλ",
+  "audio.level.easyListening": "Χαλαρή ακρόαση",
+  "audio.level.murmur": "Μουρμουρητό",
+  "audio.level.muted": "Σε σίγαση",
+  "audio.level.partyMode": "Λειτουργία πάρτι",
+  "audio.level.silenced": "Σιωπηλό",
+  "audio.level.steadyGroove": "Σταθερός ρυθμός",
+  "audio.level.whisper": "Ψίθυρος",
+  "audio.mute": "Σίγαση",
+  "audio.output": "ΕΞΟΔΟΣ",
+  "audio.sources": "ΠΗΓΕΣ",
+  "audio.stream": "Ροή",
+  "audio.title": "Ήχος",
+  "audio.unknownDevice": "Άγνωστη",
+  "audio.unmute": "Κατάργηση σίγασης"
+}

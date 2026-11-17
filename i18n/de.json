@@ -1,0 +1,19 @@
+{
+  "audio.input": "EINGABE",
+  "audio.level.concertHall": "Konzertsaal",
+  "audio.level.crankedUp": "Aufgedreht",
+  "audio.level.easyListening": "Leichtes Hören",
+  "audio.level.murmur": "Murmeln",
+  "audio.level.muted": "Stumm",
+  "audio.level.partyMode": "Partymodus",
+  "audio.level.silenced": "Ganz leise",
+  "audio.level.steadyGroove": "Stabiler Groove",
+  "audio.level.whisper": "Flüstern",
+  "audio.mute": "Stummschalten",
+  "audio.output": "AUSGABE",
+  "audio.sources": "QUELLEN",
+  "audio.stream": "Stream",
+  "audio.title": "Audio",
+  "audio.unknownDevice": "Unbekannt",
+  "audio.unmute": "Stummschaltung aufheben"
+}

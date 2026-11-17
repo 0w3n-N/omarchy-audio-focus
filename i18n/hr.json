@@ -1,0 +1,19 @@
+{
+  "audio.input": "ULAZ",
+  "audio.level.concertHall": "Koncertna dvorana",
+  "audio.level.crankedUp": "Pojačano",
+  "audio.level.easyListening": "Lagano slušanje",
+  "audio.level.murmur": "Mrmljanje",
+  "audio.level.muted": "Utišano",
+  "audio.level.partyMode": "Party način",
+  "audio.level.silenced": "Ušutkano",
+  "audio.level.steadyGroove": "Stalni ritam",
+  "audio.level.whisper": "Šapat",
+  "audio.mute": "Isključite zvuk",
+  "audio.output": "IZLAZ",
+  "audio.sources": "IZVORI",
+  "audio.stream": "Tok",
+  "audio.title": "Zvuk",
+  "audio.unknownDevice": "Nepoznato",
+  "audio.unmute": "Uključite zvuk"
+}

@@ -1,0 +1,19 @@
+{
+  "audio.input": "INMATNING",
+  "audio.level.concertHall": "Konsertsal",
+  "audio.level.crankedUp": "Fullt ös",
+  "audio.level.easyListening": "Lugnt lyssnande",
+  "audio.level.murmur": "Mummel",
+  "audio.level.muted": "Tystad",
+  "audio.level.partyMode": "Partyläge",
+  "audio.level.silenced": "Tyst",
+  "audio.level.steadyGroove": "Stadigt groove",
+  "audio.level.whisper": "Viskning",
+  "audio.mute": "Ljud av",
+  "audio.output": "UTMATNING",
+  "audio.sources": "KÄLLOR",
+  "audio.stream": "Ström",
+  "audio.title": "Ljud",
+  "audio.unknownDevice": "Okänd",
+  "audio.unmute": "Ljud på"
+}

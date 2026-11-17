@@ -1,0 +1,19 @@
+{
+  "audio.input": "INNTAK",
+  "audio.level.concertHall": "Tónleikasalur",
+  "audio.level.crankedUp": "Í botni",
+  "audio.level.easyListening": "Létt hlustun",
+  "audio.level.murmur": "Muml",
+  "audio.level.muted": "Þaggað",
+  "audio.level.partyMode": "Partýhamur",
+  "audio.level.silenced": "Alveg þagnað",
+  "audio.level.steadyGroove": "Stöðugur taktur",
+  "audio.level.whisper": "Hvísl",
+  "audio.mute": "Þagga",
+  "audio.output": "ÚTTAK",
+  "audio.sources": "UPPSPRETTUR",
+  "audio.stream": "Straumur",
+  "audio.title": "Hljóð",
+  "audio.unknownDevice": "Óþekkt",
+  "audio.unmute": "Kveikja hljóð"
+}

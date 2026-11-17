@@ -1,0 +1,19 @@
+{
+  "audio.input": "INDGANG",
+  "audio.level.concertHall": "Koncertsal",
+  "audio.level.crankedUp": "Skruet op",
+  "audio.level.easyListening": "Let lytning",
+  "audio.level.murmur": "Mumlen",
+  "audio.level.muted": "Slået fra",
+  "audio.level.partyMode": "Festtilstand",
+  "audio.level.silenced": "Helt stille",
+  "audio.level.steadyGroove": "Stabil groove",
+  "audio.level.whisper": "Hvisken",
+  "audio.mute": "Slå lyd fra",
+  "audio.output": "UDGANG",
+  "audio.sources": "KILDER",
+  "audio.stream": "Stream",
+  "audio.title": "Lyd",
+  "audio.unknownDevice": "Ukendt",
+  "audio.unmute": "Slå lyd til"
+}

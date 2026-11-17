@@ -1,0 +1,19 @@
+{
+  "audio.input": "ВХІД",
+  "audio.level.concertHall": "Концертний зал",
+  "audio.level.crankedUp": "На повну",
+  "audio.level.easyListening": "Легке прослуховування",
+  "audio.level.murmur": "Тихий гомін",
+  "audio.level.muted": "Без звуку",
+  "audio.level.partyMode": "Режим вечірки",
+  "audio.level.silenced": "Повна тиша",
+  "audio.level.steadyGroove": "Стабільний ритм",
+  "audio.level.whisper": "Шепіт",
+  "audio.mute": "Вимкнути звук",
+  "audio.output": "ВИХІД",
+  "audio.sources": "ДЖЕРЕЛА",
+  "audio.stream": "Потік",
+  "audio.title": "Звук",
+  "audio.unknownDevice": "Невідомий",
+  "audio.unmute": "Увімкнути звук"
+}

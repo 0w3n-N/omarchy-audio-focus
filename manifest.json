@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.0w3n-n.audio-focus",
+  "name": "Audio Focus",
+  "version": "1.0.0",
+  "author": "0w3n-N",
+  "license": "MIT",
+  "homepage": "https://github.com/0w3n-N/omarchy-audio-focus",
+  "description": "Omarchy's audio panel with scroll-safe sliders: the wheel only moves the slider you select, and browser streams show their tab title.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Audio Focus",
+    "description": "Volume, output and input pickers and a per-app mixer. Scroll moves only the slider you select (or any slider with Ctrl), and each browser tab's stream is labelled with its page title.",
+    "category": "Audio",
+    "defaultSection": "right",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.audio"
+  }
+}

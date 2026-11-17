@@ -1,0 +1,19 @@
+{
+  "audio.input": "VHOD",
+  "audio.level.concertHall": "Koncertna dvorana",
+  "audio.level.crankedUp": "Na ves glas",
+  "audio.level.easyListening": "Sproščeno poslušanje",
+  "audio.level.murmur": "Mrmranje",
+  "audio.level.muted": "Utišano",
+  "audio.level.partyMode": "Način zabave",
+  "audio.level.silenced": "Tišina",
+  "audio.level.steadyGroove": "Umirjen ritem",
+  "audio.level.whisper": "Šepet",
+  "audio.mute": "Utišaj",
+  "audio.output": "IZHOD",
+  "audio.sources": "VIRI",
+  "audio.stream": "Tok",
+  "audio.title": "Zvok",
+  "audio.unknownDevice": "Neznano",
+  "audio.unmute": "Vklopi zvok"
+}

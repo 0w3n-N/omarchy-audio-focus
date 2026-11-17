@@ -1,0 +1,19 @@
+{
+  "audio.input": "VSTUP",
+  "audio.level.concertHall": "Koncertní sál",
+  "audio.level.crankedUp": "Pořádně nahlas",
+  "audio.level.easyListening": "Pohodový poslech",
+  "audio.level.murmur": "Brumlání",
+  "audio.level.muted": "Ztlumeno",
+  "audio.level.partyMode": "Párty režim",
+  "audio.level.silenced": "Ticho",
+  "audio.level.steadyGroove": "Klidný rytmus",
+  "audio.level.whisper": "Šepot",
+  "audio.mute": "Ztlumit",
+  "audio.output": "VÝSTUP",
+  "audio.sources": "ZDROJE",
+  "audio.stream": "Proud",
+  "audio.title": "Zvuk",
+  "audio.unknownDevice": "Neznámé",
+  "audio.unmute": "Zrušit ztlumení"
+}

@@ -1,0 +1,19 @@
+{
+  "audio.input": "TULO",
+  "audio.level.concertHall": "Konserttisali",
+  "audio.level.crankedUp": "Täysillä",
+  "audio.level.easyListening": "Kevyt kuuntelu",
+  "audio.level.murmur": "Mumina",
+  "audio.level.muted": "Mykistetty",
+  "audio.level.partyMode": "Juhlatila",
+  "audio.level.silenced": "Vaiennettu",
+  "audio.level.steadyGroove": "Tasainen groove",
+  "audio.level.whisper": "Kuiskaus",
+  "audio.mute": "Mykistä",
+  "audio.output": "LÄHTÖ",
+  "audio.sources": "LÄHTEET",
+  "audio.stream": "Virta",
+  "audio.title": "Ääni",
+  "audio.unknownDevice": "Tuntematon",
+  "audio.unmute": "Poista mykistys"
+}

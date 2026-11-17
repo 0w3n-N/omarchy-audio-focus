@@ -1,0 +1,19 @@
+{
+  "audio.input": "BEMENET",
+  "audio.level.concertHall": "Koncertterem",
+  "audio.level.crankedUp": "Felhangosítva",
+  "audio.level.easyListening": "Könnyed hallgatás",
+  "audio.level.murmur": "Motyogás",
+  "audio.level.muted": "Némítva",
+  "audio.level.partyMode": "Bulimód",
+  "audio.level.silenced": "Elnémítva",
+  "audio.level.steadyGroove": "Állandó ritmus",
+  "audio.level.whisper": "Suttogás",
+  "audio.mute": "Némítás",
+  "audio.output": "KIMENET",
+  "audio.sources": "FORRÁSOK",
+  "audio.stream": "Hangfolyam",
+  "audio.title": "Hang",
+  "audio.unknownDevice": "Ismeretlen",
+  "audio.unmute": "Némítás feloldása"
+}
